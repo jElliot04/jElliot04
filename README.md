@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jElliot04
-- 👀 I’m interested in ...ESports, Solving problems, Footbal
+- 👀 I’m interested in ...ESports, Solving problems, Football, basketball
 - 🌱 I’m currently learning ...ALX software Engineering
 - 💞️ I’m looking to collaborate on ...Software development Projects
 - 📫 How to reach me ... email livenba0018@gmail.com
